@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+li {
+    list-style-type: square; /* This will apply square bullets to list items */
+    padding: 8px 0; /* Padding for better spacing */
+    font-size: 18px; /* Increase font size */
+}
